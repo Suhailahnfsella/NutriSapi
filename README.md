@@ -1,2 +1,2 @@
 # NutriSapi
- Program untuk bertenak Sapi
+ Program untuk berternak Sapi
